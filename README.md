@@ -67,6 +67,6 @@ This project analyzes retail sales performance across products, customers, regio
 
 * Power BI Dashboard (.pbix)
 * SQL Analysis Scripts
-* Data Dictionary
+* Data File (Excel CSV filed)
 * Data Quality Report
 * Insights Report
